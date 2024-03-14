@@ -1,0 +1,8 @@
+\\ this is a comment
+\\ default delimiter is " - ", hint delimiter is ". " and card delimiter is "\n" (newline)
+\\ Keep in mind that this can be changed.
+\\ following example uses default structure
+term1 - year1 - hint1-1. hint1-2. hint1-3.
+term2 - hint2-1.
+term3 - hint3-1. hint3-2
+term4 - hint4-1.
